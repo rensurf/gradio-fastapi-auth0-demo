@@ -1,0 +1,4 @@
+.env
+.gradio
+.ruff_cache
+.venv
